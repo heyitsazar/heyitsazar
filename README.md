@@ -12,7 +12,7 @@ Hi there 👋!
 - Writing `Dart(Flutter)`, `JavaScript`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://linkedin.com/in/azarmamiyev)** and **[Twitter](https://twitter.com/azarmamiyev)**.
-- Building currently on multiple projects, check: **[My Git repositories](https://github.com/heyitsazar?tab=repositories)**.
+- Currently building multiple projects, check: **[My Git repositories](https://github.com/heyitsazar?tab=repositories)**.
 
 #### What are my skill sets?
 
