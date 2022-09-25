@@ -60,9 +60,6 @@ Hi there 👋!
 <a href="https://dev.to/heyitsazar">
   <img align="left" alt="Dev" width="22px" src="./assets/dev.svg" />
 </a>
-<a href="https://medium.com/@heyitsazar">
-  <img align="left" alt="Medium" width="22px" src="./assets/medium.svg" />
-</a>
 <a href="mailto:heyitsazar@gmail.com">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
