@@ -3,13 +3,13 @@ Hi there 👋!
 #### Who I am?
 
 - A Software Engineer based in **[Baku](https://en.wikipedia.org/wiki/Baku), [Azerbaijan](https://en.wikipedia.org/wiki/Azerbaijan)**.
-- I'm freelancing as **Junior Flutter Developer**.
+- I'm freelancing as **iOS Developer**.
 - Open Source enthusiast.
 - See my portfolio at **[mamiyev.tech](https://www.mamiyev.tech)**.
 
 #### What I'm doing?
 
-- Writing `Dart(Flutter)`, `JavaScript`.
+- Writing `Swift`, `JavaScript`, `Dart(Flutter)`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://linkedin.com/in/azarmamiyev)** and **[Twitter](https://twitter.com/azarmamiyev)**.
 - Currently building multiple projects, check: **[My Git repositories](https://github.com/heyitsazar?tab=repositories)**.
@@ -24,20 +24,22 @@ Hi there 👋!
   - **Databases:** `#` • `#`
   - **System Architecture:** `#` • `#`
   - **Protocol:** `#` • `#`
-  -->
+-->
 
 - 🖥 **Frontend:**
 
-  - **Language:** `Dart` • `JavaScript`
-  - **Framework/Library:** `Flutter`
+  - **Language:** `Swift` • `JavaScript` • `Dart`
+  - **Framework/Library:** `SwiftUI` • `Flutter`
+  - **UI Toolkit:** `UIKit`
 
-<!--   
-  - **UI Toolkit:** `#` • `#`
+<!--
   - **Utils:** `#` • `#` • `#`
-  -->
+-->
+
 - 🎡 **Ecosystem:**
   
   - **Version Control:** `Git` • `GitHub`
+
 <!--
   - **Containerization:** `#` • `#` • `#`
   - **CI/CD:** `#` • `#`
