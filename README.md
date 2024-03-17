@@ -9,7 +9,7 @@
 I'm a Master's student in Computer Science Engineering at [Óbuda University](https://nik.uni-obuda.hu/en/computer-science-engineering-msc/), based in Budapest, Hungary. I'm interested in Software Development, Cybersecurity, Internet privacy, and AI. You can find more about me on my [LinkedIn profile](https://linkedin.com/in/azarmamiyev).
 
 #### Technologies that I'm using:
-- **Programming Language**: Java, Kotlin, JavaScript
-- **Backend Framework**: Spring (using Java)
-- **Frontend Framework**: Angular
+- **Programming Language**: Python, Java, Kotlin, JavaScript
+- **Backend Framework**: Django (using Python), Spring (using Java)
+- **Frontend Framework**: Angular, React
 - **Database Engine**: MySQL
